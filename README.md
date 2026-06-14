@@ -33,7 +33,12 @@ Aqui você aprende a construir uma carreira sólida, tomar decisões inteligente
 
 ### 🎬 O que abordamos no canal
 
+Trazemos para a mesa o que os tutoriais tradicionais costumam ignorar. Falamos sobre código limpo, arquitetura e ferramentas, claro, mas também desmistificamos o jogo do mercado corporativo. 
+
+Nosso conteúdo é desenhado para te ensinar a se posicionar como um profissional de alto valor, a gerir seu tempo de forma inteligente e, o mais importante: a transformar o seu salário em patrimônio sólido. Aqui, programar é apenas o meio; o verdadeiro objetivo é conquistar a sua independência de ponta a ponta.
+
 <p align="center">
+  <br/>
   <img src="https://skillicons.dev/icons?i=youtube,react,js,ts,go,python,aws,docker,linux,git&theme=dark" />
 </p>
 
@@ -69,7 +74,9 @@ Se você é dev, está estudando programação ou quer evoluir de verdade na ár
 
 ### 🤝 Trabalhe Conosco
 
-Curte o nosso conteúdo e quer fazer parte dos bastidores d'**Os Gêmeos Dev**? Estamos sempre em busca de pessoas que gostam de colocar a mão na massa (Edição de Vídeo, Copywriting, Social Media). Sem burocracia, 100% remoto e com foco em resultados reais.
+Quer atuar nos bastidores de um projeto que impacta a vida de milhares de desenvolvedores? Estamos sempre em busca de pessoas proativas para colocar a mão na massa com a gente (Edição de Vídeo, Copywriting, Social Media). 
+
+Nosso ambiente é 100% remoto, direto ao ponto e livre de burocracias corporativas. **O grande diferencial?** Nossa equipe tem acesso liberado aos nossos próprios treinamentos e trilhas de capacitação. Ou seja: você trabalha, é valorizado pelas suas entregas e ainda evolui profissionalmente junto com a gente.
 
 📩 **[Envie seu portfólio para nosso e-mail](mailto:osgemeosdev@gmail.com?subject=TRABALHE%20CONOSCO%20-%20Os%20Gemeos%20Dev)**
 
@@ -81,10 +88,10 @@ Curte o nosso conteúdo e quer fazer parte dos bastidores d'**Os Gêmeos Dev**? 
 ### 📬 Nossos Contatos
 
 <p align="center">
-  <a href="[LINK_DO_SEU_CANAL]" target="_blank">
+  <a href="https://www.youtube.com/@gemeosdev" target="_blank">
     <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="60" alt="YouTube" />
   </a>
-  <a href="[LINK_DO_SEU_INSTAGRAM]" target="_blank">
+  <a href="https://instagram.com/osgemeosdev" target="_blank">
     <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="60" alt="Instagram" />
   </a>
   <a href="mailto:osgemeosdev@gmail.com" target="_blank">

@@ -106,5 +106,10 @@ Nosso ambiente é 100% remoto, direto ao ponto e livre de burocracias corporativ
 </p>
 
 <p align="center">
+  <br/><br/>
+  Feito com ❤️ por <a href="https://github.com/R-o-d-r-i-g-o" target="_blank">nós</a>.
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=006EFC&height=100&section=footer"/>
 </p>

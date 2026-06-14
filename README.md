@@ -8,9 +8,8 @@
 
 <div align="center">
    <br/>
+   <a href="https://www.youtube.com/@gemeosdev"><img src="https://img.shields.io/badge/YouTube-Inscreva--se-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Inscreva-se"></a>
    <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/osgemeosdev&label=VISITORS&theme=tokyonight" width="120" alt="Visitors Badge"/>
-   <br/>
-   <a href="https://www.youtube.com/@gemeosdev"><img src="https://img.shields.io/badge/YouTube-Inscreva--se-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Inscreva-se"/></a>
 </div>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="250" align="right"/>
@@ -97,13 +96,13 @@ Nosso ambiente é 100% remoto, direto ao ponto e livre de burocracias corporativ
 
 <p align="center">
   <a href="https://www.youtube.com/@gemeosdev" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="60" alt="YouTube" />
+    <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="60" alt="YouTube">
   </a>
   <a href="https://instagram.com/osgemeosdev" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="60" alt="Instagram" />
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="60" alt="Instagram">
   </a>
   <a href="mailto:osgemeosdev@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60" alt="Gmail" />
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60" alt="Gmail">
   </a>
 </p>
 

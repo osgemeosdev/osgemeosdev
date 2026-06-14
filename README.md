@@ -61,6 +61,17 @@ Se você é dev, está estudando programação ou quer evoluir de verdade na ár
   <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+### 🤝 Trabalhe Conosco
+
+Curte o nosso conteúdo e quer fazer parte dos bastidores d'**Os Gêmeos Dev**? Estamos sempre em busca de pessoas que gostam de colocar a mão na massa (Edição de Vídeo, Copywriting, Social Media). Sem burocracia, 100% remoto e com foco em resultados reais.
+
+📩 **[Envie seu portfólio para nosso e-mail](mailto:osgemeosdev@gmail.com?subject=TRABALHE%20CONOSCO%20-%20Os%20Gemeos%20Dev)**
+
+
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ### 📬 Nossos Contatos
 
 <p align="center">
@@ -73,11 +84,6 @@ Se você é dev, está estudando programação ou quer evoluir de verdade na ár
   <a href="mailto:osgemeosdev@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60" alt="Gmail" />
   </a>
-</p>
-
-<p align="center">
-  <br/>
-  Feito por <b>Os Gêmeos Dev</b> 👨‍💻👨‍💻
 </p>
 
 <p align="center">

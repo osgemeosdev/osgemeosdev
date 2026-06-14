@@ -108,7 +108,7 @@ Nosso ambiente é 100% remoto, direto ao ponto e livre de burocracias corporativ
 
 <p align="center">
   <br/><br/>
-  Feito com ❤️ por <a href="https://github.com/R-o-d-r-i-g-o" target="_blank">nós</a>.
+  Feito com ❤️ por <a href="https://github.com/R-o-d-r-i-g-o" target="_blank">Rodrigo</a> e <a href="https://github.com/RodolfoMRibeiro" target="_blank">Rodolfo</a>.
 </p>
 
 <p align="center">

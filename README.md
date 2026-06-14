@@ -27,6 +27,8 @@ Aqui você aprende a construir uma carreira sólida, tomar decisões inteligente
 
 <div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=006EFC&center=true&vCenter=true&width=700&lines=🔔+Vídeos+novos+toda+semana!;🤝+Faça+parte+da+nossa+comunidade!;🎥+Inscreva-se+agora+no+YouTube!" alt="Typing SVG Comunidade" />
+  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ### 🎬 O que abordamos no canal
@@ -36,6 +38,8 @@ Aqui você aprende a construir uma carreira sólida, tomar decisões inteligente
 </p>
 
 <div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=006EFC&center=true&vCenter=true&width=700&lines=💡+Código.;☕+Vida+real.;📈+Evolução.;💰+Liberdade." alt="Typing SVG Valores" />
   <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
@@ -58,6 +62,8 @@ Se você é dev, está estudando programação ou quer evoluir de verdade na ár
 </div>
 
 <div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=006EFC&center=true&vCenter=true&width=700&lines=🎯+Preparado+para+o+próximo+nível?;📩+Venha+trabalhar+com+a+gente!;🔥+Acelere+sua+carreira+tech!" alt="Typing SVG Ação" />
   <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 

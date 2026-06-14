@@ -50,7 +50,13 @@ Nosso conteúdo é desenhado para te ensinar a se posicionar como um profissiona
 
 ### 🔔 Junte-se à nossa Comunidade
 
-Se você é dev, está estudando programação ou quer evoluir de verdade na área de tecnologia, **esse canal é pra você.** Não fique de fora da nossa rede!
+A jornada na programação muitas vezes pode parecer solitária, mas não precisa ser. Nós acreditamos que a verdadeira evolução técnica e profissional acontece quando você está rodeado de pessoas que compartilham do mesmo objetivo: **crescer na carreira, dominar o código e alcançar a liberdade financeira.**
+
+Nossa comunidade no YouTube vai muito além de apenas entregar conteúdo passivo. É um espaço de troca constante, onde discutimos abertamente os perrengues da vida real, analisamos as tendências do mercado sem falsas promessas e construímos juntos uma mentalidade voltada para o sucesso e para o longo prazo.
+
+Seja você um iniciante dando os primeiros `console.log()` na programação, um Júnior buscando acelerar sua primeira promoção, ou um Sênior querendo otimizar seus investimentos e melhorar seu posicionamento, **o seu lugar é aqui com a gente.** 
+
+Não caminhe sozinho. Venha fazer parte dessa revolução tech!
 
 <br/>
 

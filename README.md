@@ -8,6 +8,8 @@
 
 <div align="center">
    <br/>
+   <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/osgemeosdev&label=VISITORS&theme=tokyonight" width="120" alt="Visitors Badge"/>
+   <br/>
    <a href="https://www.youtube.com/@gemeosdev"><img src="https://img.shields.io/badge/YouTube-Inscreva--se-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Inscreva-se"/></a>
 </div>
 

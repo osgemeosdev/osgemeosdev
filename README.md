@@ -46,7 +46,7 @@ Se você é dev, está estudando programação ou quer evoluir de verdade na ár
 <br/>
 
 <div align="center">
-  <a href="[LINK_DO_SEU_CANAL]" target="_blank">
+  <a href="https://www.youtube.com/@gemeosdev" target="_blank">
     <img src="https://img.shields.io/badge/🎥_ASSISTIR_AGORA_NO_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="350" alt="Assistir no YouTube"/>
   </a>
 </div>

@@ -1,6 +1,8 @@
+<img align="center" src="https://github.com/osgemeosdev/osgemeosdev/blob/main/banner.jpeg">
+
 <div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=🚀+Bem-vindo+a+Os+Gêmeos+Dev!;💻+Sem+filtro.+Sem+papo+coach.;📈+Carreira,+Finanças+e+Código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=006EFC&center=true&vCenter=true&width=700&lines=🚀+Bem-vindo+a+Os+Gêmeos+Dev!;💻+Sem+filtro.+Sem+papo+coach.;📈+Carreira,+Finanças+e+Código" alt="Typing SVG" />
   <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
@@ -79,5 +81,5 @@ Se você é dev, está estudando programação ou quer evoluir de verdade na ár
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=006EFC&height=100&section=footer"/>
 </p>
